@@ -56,8 +56,8 @@ src/
 ### Сборка и запуск из CLI
 
 ```powershell
-git clone https://github.com/NadKuznetsova/Practice.git
-cd Practice
+git clone https://github.com/tunyakk/Library.git
+cd Library
 
 dotnet restore
 dotnet build
@@ -77,36 +77,6 @@ dotnet run --project src/LibraryManagement.WinForms
   }
 }
 ```
-
-## Скриншоты
-
-### Главное меню
-
-![Главное меню](docs/screenshots/Главное меню.png)
-
-### Каталог книг
-
-![Книги](docs/screenshots/Книги.png)
-
-### Авторы
-
-![Авторы](docs/screenshots/Авторы.png)
-
-### Жанры
-
-![Жанры](docs/screenshots/Жанры.png)
-
-### Издательства
-
-![Издательства](docs/screenshots/Издательства.png)
-
-### Читатели
-
-![Читатели](docs/screenshots/Читатели.png)
-
-### Топ популярных книг
-
-![ТопПопулярныхКниг](docs/screenshots/ТопПопулярныхКниг.png)
 
 ## Лицензия
 
